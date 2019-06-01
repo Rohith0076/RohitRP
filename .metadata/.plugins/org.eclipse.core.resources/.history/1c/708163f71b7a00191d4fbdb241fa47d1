@@ -1,0 +1,14 @@
+package Programms;
+
+public class Median {
+	
+	public static void main(String[] args) {
+		
+		int[] i= {1,2,3};
+		int[] j= {4,5,6};
+		int x=i.length+j.length;
+		System.out.println(x);
+		
+	}
+
+}
